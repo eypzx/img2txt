@@ -1,7 +1,3 @@
-# img2txt takes an image file as input and extracts the text content from the image using Tesseract-OCR, displaying the extracted text on the terminal.
-# Author: Eric Yepiz
-
-
 import sys
 import pytesseract
 from PIL import Image
