@@ -4,8 +4,10 @@ from PIL import Image
 
 
 
-# Path to the Tesseract-OCR executable
-pytesseract.pytesseract.tesseract_cmd = r'/usr/bin/tesseract'
+# Path to the Tesseract-OCR executable. Change this line to use in other operating systems. 
+pytesseract.pytesseract.tesseract = r'/usr/bin/tesseract'
+
+
 
 def extract_text_from_image(image_path):
     
