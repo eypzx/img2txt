@@ -25,7 +25,7 @@ To quickly install and use the img2txt utility, follow these steps:
 
 ## Usage
 - `python3 img2txt.py /path/to/file.jpg`
-- If installed via the script: `img2txt.py /path/to/file.jpg`
+- If installed via the script: `img2txt /path/to/file.jpg`
 
 ## Support
 - The script works on Linux, but it can be adapted to work on Windows by changing the path to the Tesseract-OCR executable in the variable "pytesseract.pytesseract.tesseract".
