@@ -29,5 +29,5 @@ To quickly install and use the img2txt utility, follow these steps:
 - If installed via the script: `img2txt /path/to/file.jpg`
 
 ## Support
-- The script works on Linux, but it can be adapted to work on Windows by changing the path to the Tesseract-OCR executable in the variable "pytesseract.pytesseract.tesseract".
-- Currently, the script only supports the English alphabet, but I plan on adding support for more languages in the future.
+- Works on Linux, but it can be adapted to work on Windows by changing the path to the Tesseract-OCR executable in the variable "pytesseract.pytesseract.tesseract".
+- Currently only supports the English alphabet, but I plan on adding support for more languages in the future.
