@@ -1,3 +1,7 @@
+#!/usr/bin/env python3
+
+
+
 import sys
 import pytesseract
 from PIL import Image
