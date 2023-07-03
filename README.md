@@ -1,5 +1,5 @@
 # img2txt
-This simple utility takes an image file as input and extracts the text content from the image using Tesseract-OCR, displaying the extracted text in the terminal. Currently, it only supports the English alphabet. You can run it as a standalone Python script or install it onto your system as a utility.
+img2txt is a simple utility that takes an image file as input and extracts the text content from the image using Tesseract-OCR, displaying the extracted text in the terminal. Currently, it only supports the English alphabet. You can run it as a standalone Python script or install it onto your system as a utility.
 
 ## Setup
 ### Manual method
